@@ -1,0 +1,3 @@
+proprietario_id,proprietario_nome,categoria,unidade,cota,metodo_utilizacao,canal_venda,forma_pagamento,data_checkin,data_checkout,dias,valor_bruto,qtd_adultos,qtd_criancas_7_12,qtd_criancas_0_6,taxa_parceiro_percent,taxa_cartao_percent,desconto_campanha,estorno_devolucao
+BSH-001,João Silva,Vermelha,1508,C04,POOL,Booking,cartao,2025-01-10,2025-01-14,4,6000.0,2,1,1,18.0,4.5,0.0,0.0
+BSH-002,Maria Souza,Amarela,704,C07,POOL,Site,pix,2025-01-12,2025-01-15,3,4200.0,2,0,2,,,0.0,0.0
